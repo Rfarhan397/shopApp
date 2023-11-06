@@ -149,16 +149,6 @@ class _productlistState extends State<productlist> {
                       );
                     }),
               ),
-              Container(
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  "Rehman bhai",
-                  style: TextStyle(
-                      fontSize: 15,
-                      fontWeight: FontWeight.bold,
-                      fontFamily: 'Lato-Bold.ttf'),
-                ),
-              ),
               SizedBox(
                 height: 600,
                 width: MediaQuery.sizeOf(context).width,
