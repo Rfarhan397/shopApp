@@ -71,7 +71,7 @@ class _productlistState extends State<productlist> {
                     child: TextField(
                       decoration: InputDecoration(
                         prefixIcon: Icon(Icons.search_outlined),
-                        hintText: 'Search',
+                        hintText: 'search',
                         border: border,
                         enabledBorder: border,
                         focusedBorder: border,
